@@ -222,3 +222,9 @@ AWS: More complex but has the largest community and documentation.
 Azure: Easier for enterprises already using Microsoft products.
 GCP: Developer-friendly, especially for AI and analytics workloads.
 
+
+
+
+Here are the video links to the cloud computing platforms
+GCP-https://storage.cloud.google.com/cloudcomputing_12/copy_471BB98C-BA26-4BA9-AC93-55281178A12A.mov
+

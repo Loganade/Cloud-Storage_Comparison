@@ -225,6 +225,6 @@ GCP: Developer-friendly, especially for AI and analytics workloads.
 
 
 
-Here are the video links to the cloud computing platforms
-GCP-https://storage.cloud.google.com/cloudcomputing_12/copy_471BB98C-BA26-4BA9-AC93-55281178A12A.mov
+Here are the video links to the cloud computing platform 
+Youtube Link:https://youtu.be/xteduSkuBKY?si=pBxLmVvwj9VqXOCD
 
